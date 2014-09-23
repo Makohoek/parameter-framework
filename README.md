@@ -57,6 +57,7 @@ interface: `remote-process`.
 ## Going further
 
 See [the wiki on github](https://github.com/01org/parameter-framework/wiki).
+Code documentation is also available [here](http://01org.github.io/parameter-framework).
 
 ## Compiling
 
